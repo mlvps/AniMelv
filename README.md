@@ -79,7 +79,7 @@ This app is still in its beta stages so expect random crashes, missing content, 
 
 ## Downloads
 
-[![Latest](https://img.shields.io/github/v/release/Animenow-Team/Animenow?label=Latest\&style=for-the-badge)](https://github.com/mlvps/AniMelv/releases/latest)
+[![Latest](https://img.shields.io/github/v/release/mlvps/AniMelv?label=Latest\&style=for-the-badge)](https://github.com/mlvps/AniMelv/releases/latest)
 
 _Requires at least iOS 14, iPadOS 14, and macOS 11 or later._
 
