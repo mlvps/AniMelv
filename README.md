@@ -62,34 +62,6 @@ This app is still in its beta stages so expect random crashes, missing content, 
   </tbody>
 </table>
 
-<!-- TODO: add iPadOS screenshots -->
-
-<!-- <table>
-  <thead>
-    <tr>
-      <th colspan="5">iPadOS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>
-            <img src="./Misc/Media/iphone_home_screenshot.png"/>
-        </td>
-        <td>
-            <img src="./Misc/Media/iphone_search_screenshot.png"/>
-        </td>
-        <td>
-            <img src="./Misc/Media/iphone_anime_details_screenshot.png"/>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="3">
-            <img src="./Misc/Media/iphone_videoplayer_screenshot.png"/>
-        </td>
-    </tr>
-  </tbody>
-</table> -->
-
 <table>
   <thead>
     <tr>
@@ -111,8 +83,6 @@ This app is still in its beta stages so expect random crashes, missing content, 
 ## Downloads
 
 [![Latest](https://img.shields.io/github/v/release/AnimeNow-Team/AnimeNow?label=Latest\&style=for-the-badge)](https://github.com/AnimeNow-Team/AnimeNow/releases/latest)
-
-[![Beta](https://img.shields.io/github/v/release/AnimeNow-Team/AnimeNow?include_prereleases\&label=Beta\&style=for-the-badge)](https://github.com/AnimeNow-Team/AnimeNow/releases)
 
 _Requires at least iOS 14, iPadOS 14, and macOS 11 or later._
 
