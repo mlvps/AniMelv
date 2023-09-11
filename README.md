@@ -9,7 +9,7 @@
   </p>
   <br>
   <p align="center">
-    <img src="https://img.shields.io/github/downloads/AnimeNow-Team/AnimeNow/total?color=green&style=for-the-badge"/>
+    <img src="https://img.shields.io/github/downloads/mlvps/AniMelv/total?color=green&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/platforms-iOS%2C%20iPadOS%2C%20macOS-green?style=for-the-badge"/>
   </p>
   <br>
