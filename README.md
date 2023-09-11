@@ -119,16 +119,4 @@ _TBA_
 
 - [Consumet](https://github.com/consumet/api.consumet.org) and [Enime](https://github.com/Enime-Project/api.enime.moe) for providing an open source api for fetching content.
 
-## Contributors
 
-[![](https://contrib.rocks/image?repo=AnimeNow-Team/AnimeNow)](https://github.com/AnimeNow-Team/AnimeNow/graphs/contributors)
-
-## License
-
-[![Licence](https://img.shields.io/github/license/AnimeNow-Team/AnimeNow?style=for-the-badge)](./LICENSE)
-
-<hr style="height: 3px">
-
-<a href="https://www.buymeacoffee.com/animenow">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=animenow&button_colour=FF5F5F&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" />
-</a>
