@@ -110,13 +110,3 @@ _If you're not jailbroken, then you require a sideloader application in order to
 3. Once that is done, then you are free to watch your favorite anime shows :)
 
 </details>
-
-## FAQ
-
-_TBA_
-
-## Credits
-
-- [Consumet](https://github.com/consumet/api.consumet.org) and [Enime](https://github.com/Enime-Project/api.enime.moe) for providing an open source api for fetching content.
-
-
