@@ -59,24 +59,6 @@ This app is still in its beta stages so expect random crashes, missing content, 
   </tbody>
 </table>
 
-<table>
-  <thead>
-    <tr>
-      <th colspan="5">macOS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>
-            <img src="./Misc/Media/macos_home_screenshot.png"/>
-        </td>
-        <td>
-            <img src="./Misc/Media/macos_videoplayer_screenshot.png"/>
-        </td>
-    </tr>
-  </tbody>
-</table>
-
 ## Downloads
 
 [![Latest](https://img.shields.io/github/v/release/mlvps/AniMelv?label=Latest\&style=for-the-badge)](https://github.com/mlvps/AniMelv/releases/latest)
